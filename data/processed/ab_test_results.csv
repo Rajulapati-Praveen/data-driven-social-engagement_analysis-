@@ -1,0 +1,19 @@
+factor,metric,variants,test,p_value,p_nonparametric,cohens_d,effect_size,best_variant,significant,verdict
+format,retention_rate,Long (0.426) vs Short (0.627),Welch t-test,3.2687117062513634e-37,2.8532414701722675e-29,-2.203239715550225,large,Short,True,Statistically significant
+format,viral_coefficient,Long (18.886) vs Short (21.703),Welch t-test,3.796497802952743e-07,1.0001174521153538e-06,-0.707608714164325,medium,Short,True,Statistically significant
+hook_type,engagement_rate,Text (0.113) vs Visual (0.108),Welch t-test,0.01318600384904033,0.012368709850250563,0.3400508257768214,small,Text,True,Statistically significant
+format,engagement_rate,Long (0.107) vs Short (0.113),Welch t-test,0.015458360571303889,0.03423724891768352,-0.33690905530626103,small,Short,True,Statistically significant
+day_of_week,engagement_rate,Friday (0.115) vs Monday (0.103) vs Saturday (0.111) vs Sunday (0.116) vs Thursday (0.106) vs Tuesday (0.110) vs Wednesday (0.111),ANOVA,0.018125317642248204,0.015374414970179403,,n/a,Sunday,True,Statistically significant
+caption_style,viral_coefficient,Listicle (21.501) vs Question (19.887) vs Story (20.102),ANOVA,0.032086935949274704,0.014775833531298868,,n/a,Listicle,True,Statistically significant
+hook_type,viral_coefficient,Text (21.204) vs Visual (19.991),Welch t-test,0.033781907997477836,0.08688238453182355,0.29086239937486735,small,Text,False,No significant difference
+caption_style,retention_rate,Listicle (0.553) vs Question (0.516) vs Story (0.573),ANOVA,0.04240020800242389,0.06156120302315528,,n/a,Story,False,No significant difference
+caption_style,engagement_rate,Listicle (0.114) vs Question (0.108) vs Story (0.108),ANOVA,0.07091645453376295,0.07427424145747073,,n/a,Listicle,False,No significant difference
+time_slot,retention_rate,Afternoon (0.551) vs Early Evening (0.516) vs Morning (0.513) vs Prime Evening (0.565),ANOVA,0.11656115293629811,0.06306341789186064,,n/a,Prime Evening,False,No significant difference
+hook_type,retention_rate,Text (0.535) vs Visual (0.560),Welch t-test,0.17124108373733157,0.12373332028774219,-0.1857486196671931,negligible,Visual,False,No significant difference
+is_evening,retention_rate,False (0.538) vs True (0.561),Welch t-test,0.21333016274354671,0.10866039836386582,-0.16896142869852418,negligible,True,False,No significant difference
+is_evening,viral_coefficient,False (20.369) vs True (20.903),Welch t-test,0.36944153484539743,0.3479333234486002,-0.12694313980479519,negligible,True,False,No significant difference
+is_evening,engagement_rate,False (0.110) vs True (0.111),Welch t-test,0.39605827274933963,0.3133525033053367,-0.11919290561432114,negligible,True,False,No significant difference
+day_of_week,viral_coefficient,Friday (21.352) vs Monday (19.788) vs Saturday (20.147) vs Sunday (21.336) vs Thursday (19.840) vs Tuesday (21.254) vs Wednesday (20.458),ANOVA,0.5098596135390303,0.6154139092311592,,n/a,Friday,False,No significant difference
+time_slot,viral_coefficient,Afternoon (21.230) vs Early Evening (20.120) vs Morning (20.161) vs Prime Evening (20.573),ANOVA,0.6173286149344603,0.6677002566460213,,n/a,Afternoon,False,No significant difference
+time_slot,engagement_rate,Afternoon (0.112) vs Early Evening (0.111) vs Morning (0.108) vs Prime Evening (0.110),ANOVA,0.6807120534067115,0.8274457851021461,,n/a,Afternoon,False,No significant difference
+day_of_week,retention_rate,Friday (0.552) vs Monday (0.541) vs Saturday (0.549) vs Sunday (0.536) vs Thursday (0.532) vs Tuesday (0.561) vs Wednesday (0.561),ANOVA,0.9681756801220601,0.9205177820777095,,n/a,Wednesday,False,No significant difference

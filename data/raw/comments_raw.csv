@@ -1,0 +1,1269 @@
+comment_id,content_id,comment_text,true_label
+M000001,C0001,hello from India 😅,Neutral
+M000002,C0001,nice video 🥺,Neutral
+M000003,C0001,I relate to this so much ❤️. this is literally my life,Relatable
+M000004,C0002,first ❤️,Neutral
+M000005,C0002,I thought it was just me 🙏. I feel this so hard,Relatable
+M000006,C0002,first 😅,Neutral
+M000007,C0003,I relate to this so much,Relatable
+M000008,C0003,hello from India ❤️,Neutral
+M000009,C0003,good editing 🙏,Neutral
+M000010,C0004,which app is this 😅,Neutral
+M000011,C0004,sending this to my best friend 🙏,Relatable
+M000012,C0004,nice video 🥺,Neutral
+M000013,C0004,"saving this for later, I needed to hear it 💯",Relatable
+M000014,C0005,"saving this for later, I needed to hear it 🥺",Relatable
+M000015,C0005,hello from India 😅,Neutral
+M000016,C0005,the audio is a bit low ❤️,Neutral
+M000017,C0005,okay 😭,Neutral
+M000018,C0006,needed this today 💯,Relatable
+M000019,C0006,hello from India,Neutral
+M000020,C0006,"same here, every single day ❤️. this is exactly how I feel",Relatable
+M000021,C0007,good editing 😅,Neutral
+M000022,C0007,great lighting,Neutral
+M000023,C0007,great lighting 😭,Neutral
+M000024,C0008,can you make a video on productivity,Neutral
+M000025,C0008,the audio is a bit low 🙏,Neutral
+M000026,C0008,great lighting,Neutral
+M000027,C0008,how long did this take to make 😅,Neutral
+M000028,C0008,okay 🥺,Neutral
+M000029,C0008,good editing 💯,Neutral
+M000030,C0008,good editing ❤️,Neutral
+M000031,C0009,okay,Neutral
+M000032,C0009,nice video 🙏,Neutral
+M000033,C0009,I relate to this so much 😭. needed this today,Relatable
+M000034,C0010,"me too, I thought I was the only one",Relatable
+M000035,C0010,okay,Neutral
+M000036,C0010,needed this today,Relatable
+M000037,C0010,how long did this take to make 🥺,Neutral
+M000038,C0011,finally someone gets it,Relatable
+M000039,C0011,I thought it was just me. sending this to my best friend,Relatable
+M000040,C0011,the audio is a bit low ❤️,Neutral
+M000041,C0012,check out my page 😅,Neutral
+M000042,C0012,good editing 😭,Neutral
+M000043,C0012,first ❤️,Neutral
+M000044,C0013,great lighting 😭,Neutral
+M000045,C0013,sending this to my best friend 😭,Relatable
+M000046,C0013,the audio is a bit low,Neutral
+M000047,C0013,you just described me 😭,Relatable
+M000048,C0013,thanks for sharing 💯,Neutral
+M000049,C0013,what camera do you use,Neutral
+M000050,C0014,which app is this,Neutral
+M000051,C0014,"I feel this so hard. saving this for later, I needed to hear it",Relatable
+M000052,C0014,hello from India 🙏,Neutral
+M000053,C0015,"saving this for later, I needed to hear it",Relatable
+M000054,C0015,I feel this so hard ❤️,Relatable
+M000055,C0015,how long did this take to make 😭,Neutral
+M000056,C0015,okay ❤️,Neutral
+M000057,C0015,sending this to my best friend ❤️,Relatable
+M000058,C0015,hello from India 🥺,Neutral
+M000059,C0015,what song is this,Neutral
+M000060,C0016,why is this so true,Relatable
+M000061,C0016,I feel this so hard 💯. why is this so true,Relatable
+M000062,C0016,interesting topic,Neutral
+M000063,C0016,can you make a video on productivity,Neutral
+M000064,C0017,the audio is a bit low 🙏,Neutral
+M000065,C0017,what camera do you use,Neutral
+M000066,C0017,what camera do you use 💯,Neutral
+M000067,C0017,felt this in my soul 😅. I feel this so hard,Relatable
+M000068,C0017,why is this so true 🙏,Relatable
+M000069,C0017,thanks for sharing,Neutral
+M000070,C0018,good editing,Neutral
+M000071,C0018,can you make a video on productivity,Neutral
+M000072,C0018,what camera do you use ❤️,Neutral
+M000073,C0019,this is literally my life 🥺,Relatable
+M000074,C0019,this is literally my life 🙏,Relatable
+M000075,C0019,first ❤️,Neutral
+M000076,C0019,first 😅,Neutral
+M000077,C0019,what camera do you use ❤️,Neutral
+M000078,C0019,what song is this,Neutral
+M000079,C0020,first,Neutral
+M000080,C0020,how long did this take to make,Neutral
+M000081,C0020,thanks for sharing,Neutral
+M000082,C0021,check out my page 💯,Neutral
+M000083,C0021,what camera do you use,Neutral
+M000084,C0021,cool ❤️,Neutral
+M000085,C0022,cool ❤️,Neutral
+M000086,C0022,cool 🙏,Neutral
+M000087,C0022,this is exactly how I feel 💯,Relatable
+M000088,C0023,this is literally my life 😅. finally someone gets it,Relatable
+M000089,C0023,hello from India 🥺,Neutral
+M000090,C0023,"me too, I thought I was the only one 😅. I've been there, thank you for saying it",Relatable
+M000091,C0024,how long did this take to make 😅,Neutral
+M000092,C0024,okay,Neutral
+M000093,C0024,hello from India 🙏,Neutral
+M000094,C0024,this is exactly how I feel. finally someone gets it,Relatable
+M000095,C0024,great lighting ❤️,Neutral
+M000096,C0025,how long did this take to make,Neutral
+M000097,C0025,"same here, every single day 😭",Relatable
+M000098,C0025,interesting topic ❤️,Neutral
+M000099,C0026,great lighting 😭,Neutral
+M000100,C0026,"me too, I thought I was the only one 😭",Relatable
+M000101,C0026,first 😅,Neutral
+M000102,C0027,this is exactly how I feel,Relatable
+M000103,C0027,what camera do you use,Neutral
+M000104,C0027,thanks for sharing 🥺,Neutral
+M000105,C0027,how long did this take to make,Neutral
+M000106,C0027,the audio is a bit low,Neutral
+M000107,C0027,which app is this 💯,Neutral
+M000108,C0027,first 🥺,Neutral
+M000109,C0028,good editing,Neutral
+M000110,C0028,hello from India 💯,Neutral
+M000111,C0028,how long did this take to make,Neutral
+M000112,C0028,I feel this so hard 🥺,Relatable
+M000113,C0028,interesting topic,Neutral
+M000114,C0028,first,Neutral
+M000115,C0028,can you make a video on productivity 🙏,Neutral
+M000116,C0029,finally someone gets it,Relatable
+M000117,C0029,I thought it was just me 🥺,Relatable
+M000118,C0029,the audio is a bit low,Neutral
+M000119,C0029,cool ❤️,Neutral
+M000120,C0029,can you make a video on productivity,Neutral
+M000121,C0029,check out my page,Neutral
+M000122,C0029,needed this today,Relatable
+M000123,C0029,which app is this 🥺,Neutral
+M000124,C0029,"same here, every single day 🥺",Relatable
+M000125,C0030,how long did this take to make 😭,Neutral
+M000126,C0030,cool,Neutral
+M000127,C0030,cool,Neutral
+M000128,C0031,I relate to this so much,Relatable
+M000129,C0031,good editing,Neutral
+M000130,C0031,what camera do you use,Neutral
+M000131,C0031,first 😅,Neutral
+M000132,C0032,hello from India,Neutral
+M000133,C0032,which app is this 😅,Neutral
+M000134,C0032,why is this so true,Relatable
+M000135,C0033,the audio is a bit low 😭,Neutral
+M000136,C0033,what song is this,Neutral
+M000137,C0033,how long did this take to make,Neutral
+M000138,C0033,what camera do you use 💯,Neutral
+M000139,C0033,interesting topic ❤️,Neutral
+M000140,C0033,what camera do you use 💯,Neutral
+M000141,C0033,can you make a video on productivity,Neutral
+M000142,C0033,needed this today. felt this in my soul,Relatable
+M000143,C0034,what song is this 🙏,Neutral
+M000144,C0034,first 🙏,Neutral
+M000145,C0034,I thought it was just me,Relatable
+M000146,C0034,check out my page 💯,Neutral
+M000147,C0034,"me too, I thought I was the only one 😅",Relatable
+M000148,C0034,this is exactly how I feel,Relatable
+M000149,C0034,this is literally my life 💯,Relatable
+M000150,C0034,good editing 😅,Neutral
+M000151,C0034,interesting topic,Neutral
+M000152,C0035,I feel this so hard ❤️,Relatable
+M000153,C0035,finally someone gets it,Relatable
+M000154,C0035,"saving this for later, I needed to hear it",Relatable
+M000155,C0035,hello from India 🙏,Neutral
+M000156,C0035,the audio is a bit low,Neutral
+M000157,C0035,good editing ❤️,Neutral
+M000158,C0036,first,Neutral
+M000159,C0036,felt this in my soul,Relatable
+M000160,C0036,which app is this 😅,Neutral
+M000161,C0037,okay 🙏,Neutral
+M000162,C0037,can you make a video on productivity,Neutral
+M000163,C0037,what song is this 😭,Neutral
+M000164,C0037,omg this is so me 🥺,Relatable
+M000165,C0038,cool 🥺,Neutral
+M000166,C0038,omg this is so me. you just described me,Relatable
+M000167,C0038,what song is this,Neutral
+M000168,C0038,what camera do you use,Neutral
+M000169,C0038,needed this today,Relatable
+M000170,C0038,okay 😅,Neutral
+M000171,C0038,great lighting ❤️,Neutral
+M000172,C0038,"me too, I thought I was the only one ❤️",Relatable
+M000173,C0038,thanks for sharing 💯,Neutral
+M000174,C0038,thanks for sharing 🥺,Neutral
+M000175,C0039,thanks for sharing,Neutral
+M000176,C0039,"omg this is so me. me too, I thought I was the only one",Relatable
+M000177,C0039,what camera do you use 😅,Neutral
+M000178,C0039,the audio is a bit low ❤️,Neutral
+M000179,C0040,"saving this for later, I needed to hear it 😅",Relatable
+M000180,C0040,"saving this for later, I needed to hear it",Relatable
+M000181,C0040,okay 💯,Neutral
+M000182,C0041,interesting topic 😅,Neutral
+M000183,C0041,"I've been there, thank you for saying it 💯",Relatable
+M000184,C0041,this is literally my life ❤️,Relatable
+M000185,C0042,first,Neutral
+M000186,C0042,can you make a video on productivity,Neutral
+M000187,C0042,omg this is so me,Relatable
+M000188,C0042,needed this today 😭,Relatable
+M000189,C0043,the audio is a bit low ❤️,Neutral
+M000190,C0043,hello from India,Neutral
+M000191,C0043,sending this to my best friend ❤️,Relatable
+M000192,C0043,check out my page 💯,Neutral
+M000193,C0044,good editing 🙏,Neutral
+M000194,C0044,great lighting,Neutral
+M000195,C0044,which app is this,Neutral
+M000196,C0045,good editing,Neutral
+M000197,C0045,this is literally my life ❤️. omg this is so me,Relatable
+M000198,C0045,good editing,Neutral
+M000199,C0046,good editing 💯,Neutral
+M000200,C0046,can you make a video on productivity 🥺,Neutral
+M000201,C0046,first 😭,Neutral
+M000202,C0046,you just described me 🙏,Relatable
+M000203,C0046,the audio is a bit low 😅,Neutral
+M000204,C0046,what song is this 🥺,Neutral
+M000205,C0046,cool 😭,Neutral
+M000206,C0046,okay 🙏,Neutral
+M000207,C0046,good editing 🥺,Neutral
+M000208,C0046,nice video,Neutral
+M000209,C0046,"me too, I thought I was the only one 💯",Relatable
+M000210,C0046,which app is this,Neutral
+M000211,C0046,good editing 🥺,Neutral
+M000212,C0047,can you make a video on productivity 😅,Neutral
+M000213,C0047,check out my page,Neutral
+M000214,C0047,how long did this take to make 😭,Neutral
+M000215,C0048,hello from India 💯,Neutral
+M000216,C0048,I relate to this so much,Relatable
+M000217,C0048,the audio is a bit low 💯,Neutral
+M000218,C0048,the audio is a bit low 😭,Neutral
+M000219,C0049,omg this is so me,Relatable
+M000220,C0049,omg this is so me,Relatable
+M000221,C0049,thanks for sharing 💯,Neutral
+M000222,C0050,check out my page 🥺,Neutral
+M000223,C0050,good editing 💯,Neutral
+M000224,C0050,"me too, I thought I was the only one 💯. this is literally my life",Relatable
+M000225,C0051,hello from India 😅,Neutral
+M000226,C0051,okay ❤️,Neutral
+M000227,C0051,thanks for sharing 😭,Neutral
+M000228,C0051,thanks for sharing 🥺,Neutral
+M000229,C0051,"me too, I thought I was the only one 🙏. I thought it was just me",Relatable
+M000230,C0052,omg this is so me 🥺,Relatable
+M000231,C0052,can you make a video on productivity ❤️,Neutral
+M000232,C0052,sending this to my best friend 🙏,Relatable
+M000233,C0053,okay 😭,Neutral
+M000234,C0053,I feel this so hard 😅,Relatable
+M000235,C0053,okay,Neutral
+M000236,C0053,check out my page,Neutral
+M000237,C0053,"finally someone gets it 🥺. me too, I thought I was the only one",Relatable
+M000238,C0054,needed this today 🥺,Relatable
+M000239,C0054,thanks for sharing 🥺,Neutral
+M000240,C0054,what camera do you use 😅,Neutral
+M000241,C0054,I feel this so hard 😭,Relatable
+M000242,C0054,what camera do you use,Neutral
+M000243,C0055,this is exactly how I feel 😅,Relatable
+M000244,C0055,"same here, every single day 😭",Relatable
+M000245,C0055,"saving this for later, I needed to hear it 💯. same here, every single day",Relatable
+M000246,C0056,okay ❤️,Neutral
+M000247,C0056,nice video 🥺,Neutral
+M000248,C0056,how long did this take to make,Neutral
+M000249,C0056,interesting topic 🥺,Neutral
+M000250,C0056,thanks for sharing 🥺,Neutral
+M000251,C0057,first 🙏,Neutral
+M000252,C0057,okay 🥺,Neutral
+M000253,C0057,how long did this take to make 💯,Neutral
+M000254,C0057,what camera do you use,Neutral
+M000255,C0057,you just described me,Relatable
+M000256,C0058,I thought it was just me 😅,Relatable
+M000257,C0058,good editing 💯,Neutral
+M000258,C0058,good editing 😭,Neutral
+M000259,C0059,okay,Neutral
+M000260,C0059,thanks for sharing 😭,Neutral
+M000261,C0059,okay 💯,Neutral
+M000262,C0060,felt this in my soul 💯. why is this so true,Relatable
+M000263,C0060,okay,Neutral
+M000264,C0060,this is exactly how I feel,Relatable
+M000265,C0060,what song is this,Neutral
+M000266,C0061,interesting topic 💯,Neutral
+M000267,C0061,interesting topic ❤️,Neutral
+M000268,C0061,can you make a video on productivity,Neutral
+M000269,C0062,which app is this,Neutral
+M000270,C0062,what song is this 🙏,Neutral
+M000271,C0062,what song is this ❤️,Neutral
+M000272,C0063,thanks for sharing 🙏,Neutral
+M000273,C0063,I thought it was just me,Relatable
+M000274,C0063,how long did this take to make,Neutral
+M000275,C0063,"this is exactly how I feel ❤️. I've been there, thank you for saying it",Relatable
+M000276,C0064,needed this today 💯,Relatable
+M000277,C0064,"same here, every single day",Relatable
+M000278,C0064,why is this so true 🙏,Relatable
+M000279,C0064,cool ❤️,Neutral
+M000280,C0064,omg this is so me,Relatable
+M000281,C0064,the audio is a bit low,Neutral
+M000282,C0064,sending this to my best friend,Relatable
+M000283,C0064,hello from India 😭,Neutral
+M000284,C0064,omg this is so me 😅,Relatable
+M000285,C0064,hello from India 😭,Neutral
+M000286,C0064,this is literally my life 💯,Relatable
+M000287,C0065,the audio is a bit low 💯,Neutral
+M000288,C0065,okay 😭,Neutral
+M000289,C0065,okay 💯,Neutral
+M000290,C0065,cool,Neutral
+M000291,C0066,thanks for sharing,Neutral
+M000292,C0066,how long did this take to make,Neutral
+M000293,C0066,cool 🥺,Neutral
+M000294,C0066,what song is this,Neutral
+M000295,C0066,which app is this 💯,Neutral
+M000296,C0066,first,Neutral
+M000297,C0067,this is exactly how I feel 🙏,Relatable
+M000298,C0067,"saving this for later, I needed to hear it ❤️",Relatable
+M000299,C0067,cool 😭,Neutral
+M000300,C0067,great lighting 🙏,Neutral
+M000301,C0067,great lighting 😭,Neutral
+M000302,C0067,nice video 🙏,Neutral
+M000303,C0068,what song is this 😅,Neutral
+M000304,C0068,how long did this take to make ❤️,Neutral
+M000305,C0068,which app is this 🥺,Neutral
+M000306,C0068,the audio is a bit low,Neutral
+M000307,C0068,the audio is a bit low 🥺,Neutral
+M000308,C0068,thanks for sharing 🙏,Neutral
+M000309,C0069,this is exactly how I feel,Relatable
+M000310,C0069,okay ❤️,Neutral
+M000311,C0069,"saving this for later, I needed to hear it ❤️",Relatable
+M000312,C0069,great lighting 😅,Neutral
+M000313,C0069,"me too, I thought I was the only one 😭",Relatable
+M000314,C0070,"saving this for later, I needed to hear it 🙏",Relatable
+M000315,C0070,omg this is so me ❤️,Relatable
+M000316,C0070,what song is this 😅,Neutral
+M000317,C0071,this is exactly how I feel,Relatable
+M000318,C0071,interesting topic 🥺,Neutral
+M000319,C0071,sending this to my best friend,Relatable
+M000320,C0072,can you make a video on productivity 🙏,Neutral
+M000321,C0072,you just described me,Relatable
+M000322,C0072,cool,Neutral
+M000323,C0073,can you make a video on productivity,Neutral
+M000324,C0073,interesting topic 🙏,Neutral
+M000325,C0073,how long did this take to make 🥺,Neutral
+M000326,C0074,check out my page 🥺,Neutral
+M000327,C0074,what song is this,Neutral
+M000328,C0074,sending this to my best friend,Relatable
+M000329,C0074,the audio is a bit low,Neutral
+M000330,C0074,how long did this take to make,Neutral
+M000331,C0074,interesting topic 🙏,Neutral
+M000332,C0074,what camera do you use 🙏,Neutral
+M000333,C0074,how long did this take to make ❤️,Neutral
+M000334,C0074,great lighting 😭,Neutral
+M000335,C0074,interesting topic,Neutral
+M000336,C0075,good editing ❤️,Neutral
+M000337,C0075,hello from India ❤️,Neutral
+M000338,C0075,what song is this 🙏,Neutral
+M000339,C0075,hello from India,Neutral
+M000340,C0075,how long did this take to make 😭,Neutral
+M000341,C0075,interesting topic,Neutral
+M000342,C0075,can you make a video on productivity 🥺,Neutral
+M000343,C0076,"me too, I thought I was the only one 🥺",Relatable
+M000344,C0076,the audio is a bit low,Neutral
+M000345,C0076,the audio is a bit low 😅,Neutral
+M000346,C0076,this is literally my life. felt this in my soul,Relatable
+M000347,C0077,hello from India,Neutral
+M000348,C0077,needed this today. this is literally my life,Relatable
+M000349,C0077,first 😭,Neutral
+M000350,C0078,can you make a video on productivity,Neutral
+M000351,C0078,thanks for sharing ❤️,Neutral
+M000352,C0078,what song is this 😭,Neutral
+M000353,C0078,what camera do you use,Neutral
+M000354,C0078,the audio is a bit low,Neutral
+M000355,C0079,interesting topic,Neutral
+M000356,C0079,cool 😭,Neutral
+M000357,C0079,okay,Neutral
+M000358,C0079,which app is this,Neutral
+M000359,C0079,needed this today 😅,Relatable
+M000360,C0079,the audio is a bit low 🥺,Neutral
+M000361,C0079,"this is exactly how I feel ❤️. saving this for later, I needed to hear it",Relatable
+M000362,C0079,okay 🥺,Neutral
+M000363,C0079,I thought it was just me,Relatable
+M000364,C0079,I relate to this so much,Relatable
+M000365,C0080,first 😭,Neutral
+M000366,C0080,finally someone gets it 💯. you just described me,Relatable
+M000367,C0080,first 🥺,Neutral
+M000368,C0081,first 💯,Neutral
+M000369,C0081,"me too, I thought I was the only one 🙏",Relatable
+M000370,C0081,finally someone gets it,Relatable
+M000371,C0081,first,Neutral
+M000372,C0081,which app is this,Neutral
+M000373,C0082,finally someone gets it 😭,Relatable
+M000374,C0082,what camera do you use 💯,Neutral
+M000375,C0082,can you make a video on productivity 😅,Neutral
+M000376,C0083,this is literally my life 🙏,Relatable
+M000377,C0083,"I've been there, thank you for saying it 🙏. this is exactly how I feel",Relatable
+M000378,C0083,omg this is so me 😅. you just described me,Relatable
+M000379,C0083,great lighting,Neutral
+M000380,C0083,I feel this so hard ❤️,Relatable
+M000381,C0083,can you make a video on productivity 😭,Neutral
+M000382,C0083,finally someone gets it. this is exactly how I feel,Relatable
+M000383,C0083,first 😅,Neutral
+M000384,C0084,interesting topic,Neutral
+M000385,C0084,I relate to this so much,Relatable
+M000386,C0084,good editing,Neutral
+M000387,C0085,the audio is a bit low 😅,Neutral
+M000388,C0085,"me too, I thought I was the only one",Relatable
+M000389,C0085,cool 😭,Neutral
+M000390,C0086,what song is this 💯,Neutral
+M000391,C0086,the audio is a bit low 🙏,Neutral
+M000392,C0086,thanks for sharing 💯,Neutral
+M000393,C0087,great lighting 😅,Neutral
+M000394,C0087,hello from India 🙏,Neutral
+M000395,C0087,what camera do you use ❤️,Neutral
+M000396,C0087,which app is this 💯,Neutral
+M000397,C0087,what song is this 💯,Neutral
+M000398,C0087,cool 🙏,Neutral
+M000399,C0087,check out my page 😅,Neutral
+M000400,C0087,okay 🙏,Neutral
+M000401,C0087,how long did this take to make ❤️,Neutral
+M000402,C0087,thanks for sharing,Neutral
+M000403,C0087,first,Neutral
+M000404,C0088,the audio is a bit low 💯,Neutral
+M000405,C0088,which app is this,Neutral
+M000406,C0088,omg this is so me 💯,Relatable
+M000407,C0088,"me too, I thought I was the only one 😅. saving this for later, I needed to hear it",Relatable
+M000408,C0088,thanks for sharing ❤️,Neutral
+M000409,C0088,needed this today 😅,Relatable
+M000410,C0088,okay ❤️,Neutral
+M000411,C0088,how long did this take to make 🥺,Neutral
+M000412,C0089,this is literally my life. sending this to my best friend,Relatable
+M000413,C0089,how long did this take to make,Neutral
+M000414,C0089,"same here, every single day. finally someone gets it",Relatable
+M000415,C0090,hello from India,Neutral
+M000416,C0090,can you make a video on productivity,Neutral
+M000417,C0090,which app is this 😭,Neutral
+M000418,C0091,the audio is a bit low ❤️,Neutral
+M000419,C0091,cool 😭,Neutral
+M000420,C0091,how long did this take to make ❤️,Neutral
+M000421,C0091,good editing,Neutral
+M000422,C0091,you just described me 🥺,Relatable
+M000423,C0091,cool 😭,Neutral
+M000424,C0092,okay,Neutral
+M000425,C0092,you just described me 🙏,Relatable
+M000426,C0092,"same here, every single day 😅. same here, every single day",Relatable
+M000427,C0092,"me too, I thought I was the only one ❤️",Relatable
+M000428,C0093,how long did this take to make 💯,Neutral
+M000429,C0093,nice video,Neutral
+M000430,C0093,this is literally my life,Relatable
+M000431,C0093,this is literally my life. I relate to this so much,Relatable
+M000432,C0093,which app is this ❤️,Neutral
+M000433,C0093,thanks for sharing 🙏,Neutral
+M000434,C0093,this is exactly how I feel 💯. this is exactly how I feel,Relatable
+M000435,C0094,interesting topic 😭,Neutral
+M000436,C0094,good editing,Neutral
+M000437,C0094,hello from India 💯,Neutral
+M000438,C0094,great lighting ❤️,Neutral
+M000439,C0095,okay,Neutral
+M000440,C0095,can you make a video on productivity 🥺,Neutral
+M000441,C0095,I feel this so hard,Relatable
+M000442,C0095,check out my page 🥺,Neutral
+M000443,C0095,hello from India 😭,Neutral
+M000444,C0095,interesting topic,Neutral
+M000445,C0095,what song is this 😅,Neutral
+M000446,C0095,"I've been there, thank you for saying it 💯. same here, every single day",Relatable
+M000447,C0095,which app is this 🥺,Neutral
+M000448,C0095,which app is this,Neutral
+M000449,C0096,the audio is a bit low 😭,Neutral
+M000450,C0096,what song is this 🥺,Neutral
+M000451,C0096,needed this today 🥺. finally someone gets it,Relatable
+M000452,C0096,cool 😭,Neutral
+M000453,C0097,interesting topic,Neutral
+M000454,C0097,what camera do you use 😭,Neutral
+M000455,C0097,great lighting,Neutral
+M000456,C0097,hello from India,Neutral
+M000457,C0097,nice video 😭,Neutral
+M000458,C0098,okay,Neutral
+M000459,C0098,nice video,Neutral
+M000460,C0098,which app is this 🥺,Neutral
+M000461,C0098,cool,Neutral
+M000462,C0099,"saving this for later, I needed to hear it",Relatable
+M000463,C0099,first,Neutral
+M000464,C0099,what camera do you use,Neutral
+M000465,C0100,can you make a video on productivity 😅,Neutral
+M000466,C0100,how long did this take to make 😅,Neutral
+M000467,C0100,interesting topic 🙏,Neutral
+M000468,C0101,this is exactly how I feel 🙏,Relatable
+M000469,C0101,great lighting,Neutral
+M000470,C0101,"saving this for later, I needed to hear it ❤️",Relatable
+M000471,C0101,cool 🙏,Neutral
+M000472,C0101,what song is this,Neutral
+M000473,C0101,cool,Neutral
+M000474,C0102,great lighting,Neutral
+M000475,C0102,hello from India 😅,Neutral
+M000476,C0102,good editing 😭,Neutral
+M000477,C0103,good editing 💯,Neutral
+M000478,C0103,okay 🥺,Neutral
+M000479,C0103,what camera do you use 🥺,Neutral
+M000480,C0104,cool 💯,Neutral
+M000481,C0104,okay 😭,Neutral
+M000482,C0104,great lighting 🥺,Neutral
+M000483,C0104,great lighting ❤️,Neutral
+M000484,C0104,how long did this take to make,Neutral
+M000485,C0105,what camera do you use 😭,Neutral
+M000486,C0105,good editing,Neutral
+M000487,C0105,first 🥺,Neutral
+M000488,C0105,good editing,Neutral
+M000489,C0105,which app is this 🥺,Neutral
+M000490,C0105,first 🥺,Neutral
+M000491,C0105,this is exactly how I feel 🥺. I relate to this so much,Relatable
+M000492,C0106,can you make a video on productivity 😭,Neutral
+M000493,C0106,"I relate to this so much 😭. me too, I thought I was the only one",Relatable
+M000494,C0106,"same here, every single day ❤️. needed this today",Relatable
+M000495,C0106,sending this to my best friend 😅,Relatable
+M000496,C0106,"me too, I thought I was the only one",Relatable
+M000497,C0106,great lighting 😅,Neutral
+M000498,C0107,I thought it was just me,Relatable
+M000499,C0107,check out my page 😅,Neutral
+M000500,C0107,good editing 😭,Neutral
+M000501,C0108,"same here, every single day. I thought it was just me",Relatable
+M000502,C0108,can you make a video on productivity,Neutral
+M000503,C0108,which app is this,Neutral
+M000504,C0108,good editing,Neutral
+M000505,C0108,check out my page,Neutral
+M000506,C0108,what song is this,Neutral
+M000507,C0108,why is this so true. why is this so true,Relatable
+M000508,C0109,what camera do you use 🙏,Neutral
+M000509,C0109,why is this so true ❤️,Relatable
+M000510,C0109,"I relate to this so much. same here, every single day",Relatable
+M000511,C0109,I feel this so hard 🥺,Relatable
+M000512,C0109,thanks for sharing 🙏,Neutral
+M000513,C0109,what song is this,Neutral
+M000514,C0109,nice video,Neutral
+M000515,C0109,why is this so true,Relatable
+M000516,C0109,what camera do you use,Neutral
+M000517,C0110,interesting topic 😭,Neutral
+M000518,C0110,great lighting,Neutral
+M000519,C0110,check out my page,Neutral
+M000520,C0110,hello from India,Neutral
+M000521,C0110,needed this today ❤️. you just described me,Relatable
+M000522,C0110,what camera do you use 🥺,Neutral
+M000523,C0110,nice video,Neutral
+M000524,C0110,okay 💯,Neutral
+M000525,C0110,I relate to this so much. I thought it was just me,Relatable
+M000526,C0110,finally someone gets it,Relatable
+M000527,C0111,interesting topic 🙏,Neutral
+M000528,C0111,what song is this ❤️,Neutral
+M000529,C0111,which app is this 🙏,Neutral
+M000530,C0111,what camera do you use 😭,Neutral
+M000531,C0112,first 🥺,Neutral
+M000532,C0112,omg this is so me 😭,Relatable
+M000533,C0112,okay 😭,Neutral
+M000534,C0113,thanks for sharing 😭,Neutral
+M000535,C0113,what song is this,Neutral
+M000536,C0113,hello from India 🥺,Neutral
+M000537,C0114,"why is this so true. same here, every single day",Relatable
+M000538,C0114,can you make a video on productivity 😭,Neutral
+M000539,C0114,the audio is a bit low,Neutral
+M000540,C0114,okay ❤️,Neutral
+M000541,C0115,cool,Neutral
+M000542,C0115,interesting topic,Neutral
+M000543,C0115,great lighting 🥺,Neutral
+M000544,C0115,the audio is a bit low 😅,Neutral
+M000545,C0116,what camera do you use,Neutral
+M000546,C0116,good editing ❤️,Neutral
+M000547,C0116,interesting topic 💯,Neutral
+M000548,C0116,sending this to my best friend 😅,Relatable
+M000549,C0116,great lighting 🙏,Neutral
+M000550,C0117,I feel this so hard 💯,Relatable
+M000551,C0117,great lighting,Neutral
+M000552,C0117,what camera do you use,Neutral
+M000553,C0117,"same here, every single day",Relatable
+M000554,C0117,what song is this 💯,Neutral
+M000555,C0117,thanks for sharing,Neutral
+M000556,C0117,this is exactly how I feel 😅. I feel this so hard,Relatable
+M000557,C0117,check out my page 💯,Neutral
+M000558,C0117,I feel this so hard,Relatable
+M000559,C0118,what camera do you use ❤️,Neutral
+M000560,C0118,okay 🙏,Neutral
+M000561,C0118,check out my page ❤️,Neutral
+M000562,C0118,how long did this take to make,Neutral
+M000563,C0118,which app is this,Neutral
+M000564,C0119,nice video 😅,Neutral
+M000565,C0119,how long did this take to make 🥺,Neutral
+M000566,C0119,this is exactly how I feel 💯,Relatable
+M000567,C0119,can you make a video on productivity 😅,Neutral
+M000568,C0119,"saving this for later, I needed to hear it ❤️",Relatable
+M000569,C0119,felt this in my soul 🥺,Relatable
+M000570,C0119,check out my page 💯,Neutral
+M000571,C0119,finally someone gets it 🙏. omg this is so me,Relatable
+M000572,C0119,okay ❤️,Neutral
+M000573,C0120,hello from India ❤️,Neutral
+M000574,C0120,what song is this,Neutral
+M000575,C0120,great lighting,Neutral
+M000576,C0120,felt this in my soul,Relatable
+M000577,C0121,okay,Neutral
+M000578,C0121,hello from India,Neutral
+M000579,C0121,felt this in my soul,Relatable
+M000580,C0121,great lighting,Neutral
+M000581,C0121,nice video 💯,Neutral
+M000582,C0121,great lighting 🙏,Neutral
+M000583,C0122,first,Neutral
+M000584,C0122,how long did this take to make 😅,Neutral
+M000585,C0122,this is exactly how I feel 😭. sending this to my best friend,Relatable
+M000586,C0122,first,Neutral
+M000587,C0122,which app is this,Neutral
+M000588,C0122,can you make a video on productivity 😭,Neutral
+M000589,C0122,nice video,Neutral
+M000590,C0123,you just described me 😭,Relatable
+M000591,C0123,thanks for sharing 🙏,Neutral
+M000592,C0123,interesting topic 🙏,Neutral
+M000593,C0123,what song is this 💯,Neutral
+M000594,C0123,can you make a video on productivity ❤️,Neutral
+M000595,C0123,thanks for sharing ❤️,Neutral
+M000596,C0123,what camera do you use 😅,Neutral
+M000597,C0123,sending this to my best friend 😅,Relatable
+M000598,C0123,the audio is a bit low 💯,Neutral
+M000599,C0124,sending this to my best friend. you just described me,Relatable
+M000600,C0124,I relate to this so much 😭,Relatable
+M000601,C0124,what song is this 🙏,Neutral
+M000602,C0124,interesting topic 🙏,Neutral
+M000603,C0124,good editing 😅,Neutral
+M000604,C0124,I feel this so hard 😅,Relatable
+M000605,C0124,needed this today,Relatable
+M000606,C0124,check out my page,Neutral
+M000607,C0124,needed this today 🥺. I relate to this so much,Relatable
+M000608,C0124,first 😭,Neutral
+M000609,C0124,interesting topic,Neutral
+M000610,C0124,good editing,Neutral
+M000611,C0124,can you make a video on productivity,Neutral
+M000612,C0124,interesting topic 😅,Neutral
+M000613,C0124,this is literally my life,Relatable
+M000614,C0124,"saving this for later, I needed to hear it",Relatable
+M000615,C0124,thanks for sharing,Neutral
+M000616,C0124,great lighting,Neutral
+M000617,C0125,what song is this,Neutral
+M000618,C0125,great lighting 😅,Neutral
+M000619,C0125,felt this in my soul,Relatable
+M000620,C0125,how long did this take to make 🥺,Neutral
+M000621,C0125,which app is this 💯,Neutral
+M000622,C0125,what camera do you use 🥺,Neutral
+M000623,C0125,okay 😅,Neutral
+M000624,C0125,how long did this take to make 💯,Neutral
+M000625,C0125,you just described me,Relatable
+M000626,C0125,interesting topic,Neutral
+M000627,C0125,how long did this take to make 🥺,Neutral
+M000628,C0125,which app is this,Neutral
+M000629,C0125,felt this in my soul 🥺,Relatable
+M000630,C0126,check out my page 🙏,Neutral
+M000631,C0126,great lighting,Neutral
+M000632,C0126,thanks for sharing 😅,Neutral
+M000633,C0126,can you make a video on productivity 😭,Neutral
+M000634,C0126,okay 💯,Neutral
+M000635,C0126,okay 🙏,Neutral
+M000636,C0127,what camera do you use 💯,Neutral
+M000637,C0127,good editing,Neutral
+M000638,C0127,felt this in my soul 😭,Relatable
+M000639,C0127,this is exactly how I feel 😅. you just described me,Relatable
+M000640,C0127,can you make a video on productivity 💯,Neutral
+M000641,C0127,what camera do you use 🙏,Neutral
+M000642,C0127,what camera do you use 🙏,Neutral
+M000643,C0127,first 🙏,Neutral
+M000644,C0127,"this is exactly how I feel. me too, I thought I was the only one",Relatable
+M000645,C0127,okay 💯,Neutral
+M000646,C0127,first 🥺,Neutral
+M000647,C0127,the audio is a bit low 🥺,Neutral
+M000648,C0127,cool 🥺,Neutral
+M000649,C0127,what camera do you use 🙏,Neutral
+M000650,C0127,I thought it was just me. finally someone gets it,Relatable
+M000651,C0127,felt this in my soul 😅,Relatable
+M000652,C0127,the audio is a bit low 💯,Neutral
+M000653,C0127,"I've been there, thank you for saying it 💯. saving this for later, I needed to hear it",Relatable
+M000654,C0128,how long did this take to make 🙏,Neutral
+M000655,C0128,nice video 💯,Neutral
+M000656,C0128,check out my page 💯,Neutral
+M000657,C0128,nice video ❤️,Neutral
+M000658,C0129,"saving this for later, I needed to hear it",Relatable
+M000659,C0129,omg this is so me 😅,Relatable
+M000660,C0129,the audio is a bit low,Neutral
+M000661,C0130,can you make a video on productivity,Neutral
+M000662,C0130,nice video 💯,Neutral
+M000663,C0130,"this is literally my life. I've been there, thank you for saying it",Relatable
+M000664,C0130,okay 🙏,Neutral
+M000665,C0131,I feel this so hard 😅. this is exactly how I feel,Relatable
+M000666,C0131,can you make a video on productivity 🙏,Neutral
+M000667,C0131,how long did this take to make 💯,Neutral
+M000668,C0132,how long did this take to make 💯,Neutral
+M000669,C0132,you just described me,Relatable
+M000670,C0132,I relate to this so much 🙏,Relatable
+M000671,C0132,okay,Neutral
+M000672,C0132,which app is this 😅,Neutral
+M000673,C0132,"I've been there, thank you for saying it 🥺",Relatable
+M000674,C0132,the audio is a bit low 😅,Neutral
+M000675,C0132,finally someone gets it 🥺,Relatable
+M000676,C0132,I thought it was just me 😭. sending this to my best friend,Relatable
+M000677,C0132,good editing,Neutral
+M000678,C0132,what camera do you use,Neutral
+M000679,C0132,what camera do you use 😅,Neutral
+M000680,C0133,first,Neutral
+M000681,C0133,nice video 😅,Neutral
+M000682,C0133,"same here, every single day",Relatable
+M000683,C0133,how long did this take to make 🥺,Neutral
+M000684,C0134,this is literally my life 💯,Relatable
+M000685,C0134,I thought it was just me,Relatable
+M000686,C0134,hello from India,Neutral
+M000687,C0134,can you make a video on productivity ❤️,Neutral
+M000688,C0134,what camera do you use 😭,Neutral
+M000689,C0134,what camera do you use 😅,Neutral
+M000690,C0134,hello from India 🥺,Neutral
+M000691,C0134,omg this is so me 😅,Relatable
+M000692,C0135,how long did this take to make 🥺,Neutral
+M000693,C0135,great lighting 😅,Neutral
+M000694,C0135,what camera do you use ❤️,Neutral
+M000695,C0135,nice video,Neutral
+M000696,C0136,what camera do you use 🙏,Neutral
+M000697,C0136,hello from India 🙏,Neutral
+M000698,C0136,omg this is so me 😅,Relatable
+M000699,C0137,felt this in my soul 🥺. this is exactly how I feel,Relatable
+M000700,C0137,interesting topic 😭,Neutral
+M000701,C0137,this is exactly how I feel. this is literally my life,Relatable
+M000702,C0138,omg this is so me 💯,Relatable
+M000703,C0138,sending this to my best friend 😅,Relatable
+M000704,C0138,check out my page 😭,Neutral
+M000705,C0138,needed this today 😭. this is literally my life,Relatable
+M000706,C0138,I feel this so hard 💯,Relatable
+M000707,C0138,sending this to my best friend 🥺,Relatable
+M000708,C0138,interesting topic 🥺,Neutral
+M000709,C0138,I feel this so hard 💯,Relatable
+M000710,C0138,thanks for sharing ❤️,Neutral
+M000711,C0139,first 😭,Neutral
+M000712,C0139,why is this so true ❤️. I thought it was just me,Relatable
+M000713,C0139,cool ❤️,Neutral
+M000714,C0139,finally someone gets it. you just described me,Relatable
+M000715,C0140,this is exactly how I feel,Relatable
+M000716,C0140,thanks for sharing,Neutral
+M000717,C0140,thanks for sharing,Neutral
+M000718,C0140,good editing,Neutral
+M000719,C0140,good editing ❤️,Neutral
+M000720,C0141,thanks for sharing,Neutral
+M000721,C0141,great lighting 🙏,Neutral
+M000722,C0141,thanks for sharing ❤️,Neutral
+M000723,C0141,what song is this,Neutral
+M000724,C0141,check out my page,Neutral
+M000725,C0141,what camera do you use,Neutral
+M000726,C0142,"I've been there, thank you for saying it 🥺",Relatable
+M000727,C0142,first 🙏,Neutral
+M000728,C0142,omg this is so me,Relatable
+M000729,C0142,nice video 🥺,Neutral
+M000730,C0142,good editing 😅,Neutral
+M000731,C0142,why is this so true 🥺,Relatable
+M000732,C0142,nice video,Neutral
+M000733,C0142,hello from India 😭,Neutral
+M000734,C0142,finally someone gets it 😅,Relatable
+M000735,C0143,hello from India 🥺,Neutral
+M000736,C0143,the audio is a bit low,Neutral
+M000737,C0143,needed this today,Relatable
+M000738,C0143,check out my page 😅,Neutral
+M000739,C0144,what song is this,Neutral
+M000740,C0144,the audio is a bit low 😅,Neutral
+M000741,C0144,great lighting 😅,Neutral
+M000742,C0144,nice video 😅,Neutral
+M000743,C0144,cool,Neutral
+M000744,C0144,which app is this 😅,Neutral
+M000745,C0144,check out my page ❤️,Neutral
+M000746,C0144,okay 🥺,Neutral
+M000747,C0144,omg this is so me ❤️,Relatable
+M000748,C0145,"me too, I thought I was the only one 😭. I feel this so hard",Relatable
+M000749,C0145,nice video 😅,Neutral
+M000750,C0145,how long did this take to make 🥺,Neutral
+M000751,C0145,interesting topic,Neutral
+M000752,C0146,interesting topic 🥺,Neutral
+M000753,C0146,this is literally my life 🥺. why is this so true,Relatable
+M000754,C0146,can you make a video on productivity,Neutral
+M000755,C0146,cool 😅,Neutral
+M000756,C0146,great lighting,Neutral
+M000757,C0146,which app is this 🙏,Neutral
+M000758,C0147,nice video,Neutral
+M000759,C0147,good editing,Neutral
+M000760,C0147,the audio is a bit low 😅,Neutral
+M000761,C0147,why is this so true 🥺,Relatable
+M000762,C0147,good editing 💯,Neutral
+M000763,C0147,I thought it was just me 😭,Relatable
+M000764,C0147,interesting topic 💯,Neutral
+M000765,C0148,"saving this for later, I needed to hear it 🥺. why is this so true",Relatable
+M000766,C0148,which app is this 🙏,Neutral
+M000767,C0148,cool 😅,Neutral
+M000768,C0148,which app is this,Neutral
+M000769,C0149,okay,Neutral
+M000770,C0149,which app is this 💯,Neutral
+M000771,C0149,first 🙏,Neutral
+M000772,C0149,I thought it was just me 😭,Relatable
+M000773,C0149,first,Neutral
+M000774,C0150,I feel this so hard,Relatable
+M000775,C0150,great lighting ❤️,Neutral
+M000776,C0150,the audio is a bit low 😭,Neutral
+M000777,C0150,"I thought it was just me 🙏. saving this for later, I needed to hear it",Relatable
+M000778,C0150,"me too, I thought I was the only one 🙏",Relatable
+M000779,C0150,"me too, I thought I was the only one 😅",Relatable
+M000780,C0151,okay,Neutral
+M000781,C0151,I relate to this so much 🥺,Relatable
+M000782,C0151,interesting topic,Neutral
+M000783,C0152,hello from India ❤️,Neutral
+M000784,C0152,okay,Neutral
+M000785,C0152,interesting topic 💯,Neutral
+M000786,C0153,"I relate to this so much. same here, every single day",Relatable
+M000787,C0153,interesting topic ❤️,Neutral
+M000788,C0153,"same here, every single day 😅. why is this so true",Relatable
+M000789,C0154,"me too, I thought I was the only one 😅. you just described me",Relatable
+M000790,C0154,needed this today,Relatable
+M000791,C0154,omg this is so me 😭,Relatable
+M000792,C0154,interesting topic,Neutral
+M000793,C0154,needed this today 💯,Relatable
+M000794,C0154,how long did this take to make 🥺,Neutral
+M000795,C0154,I feel this so hard ❤️,Relatable
+M000796,C0154,great lighting,Neutral
+M000797,C0154,good editing 🥺,Neutral
+M000798,C0154,what camera do you use 💯,Neutral
+M000799,C0154,thanks for sharing,Neutral
+M000800,C0154,good editing,Neutral
+M000801,C0154,great lighting 🙏,Neutral
+M000802,C0155,can you make a video on productivity 😅,Neutral
+M000803,C0155,this is literally my life 🥺. this is literally my life,Relatable
+M000804,C0155,omg this is so me ❤️. omg this is so me,Relatable
+M000805,C0155,"me too, I thought I was the only one 😅",Relatable
+M000806,C0155,good editing 🙏,Neutral
+M000807,C0156,nice video 😭,Neutral
+M000808,C0156,what song is this,Neutral
+M000809,C0156,can you make a video on productivity,Neutral
+M000810,C0156,how long did this take to make 😅,Neutral
+M000811,C0156,what song is this 😅,Neutral
+M000812,C0156,first 💯,Neutral
+M000813,C0156,cool 😭,Neutral
+M000814,C0156,which app is this,Neutral
+M000815,C0156,how long did this take to make 💯,Neutral
+M000816,C0156,hello from India 🙏,Neutral
+M000817,C0156,how long did this take to make 💯,Neutral
+M000818,C0156,"same here, every single day 💯. this is literally my life",Relatable
+M000819,C0156,how long did this take to make,Neutral
+M000820,C0157,how long did this take to make 💯,Neutral
+M000821,C0157,interesting topic ❤️,Neutral
+M000822,C0157,how long did this take to make ❤️,Neutral
+M000823,C0157,cool 😭,Neutral
+M000824,C0157,nice video 🥺,Neutral
+M000825,C0158,finally someone gets it 🥺,Relatable
+M000826,C0158,"you just described me ❤️. I've been there, thank you for saying it",Relatable
+M000827,C0158,can you make a video on productivity,Neutral
+M000828,C0158,interesting topic 😅,Neutral
+M000829,C0159,great lighting 😭,Neutral
+M000830,C0159,thanks for sharing ❤️,Neutral
+M000831,C0159,first 😭,Neutral
+M000832,C0159,what song is this,Neutral
+M000833,C0159,omg this is so me. why is this so true,Relatable
+M000834,C0160,I relate to this so much 💯. felt this in my soul,Relatable
+M000835,C0160,"me too, I thought I was the only one 🥺",Relatable
+M000836,C0160,how long did this take to make 🙏,Neutral
+M000837,C0160,"me too, I thought I was the only one",Relatable
+M000838,C0160,okay 💯,Neutral
+M000839,C0160,thanks for sharing 🥺,Neutral
+M000840,C0160,great lighting 😭,Neutral
+M000841,C0160,good editing,Neutral
+M000842,C0160,okay 🥺,Neutral
+M000843,C0160,thanks for sharing,Neutral
+M000844,C0161,I relate to this so much 🥺,Relatable
+M000845,C0161,why is this so true 🥺,Relatable
+M000846,C0161,what song is this ❤️,Neutral
+M000847,C0161,nice video 🙏,Neutral
+M000848,C0161,omg this is so me 🥺. finally someone gets it,Relatable
+M000849,C0161,"I've been there, thank you for saying it ❤️",Relatable
+M000850,C0162,thanks for sharing 🙏,Neutral
+M000851,C0162,great lighting 🙏,Neutral
+M000852,C0162,what camera do you use,Neutral
+M000853,C0162,can you make a video on productivity,Neutral
+M000854,C0162,how long did this take to make 🥺,Neutral
+M000855,C0162,"I've been there, thank you for saying it",Relatable
+M000856,C0162,first,Neutral
+M000857,C0162,how long did this take to make 🥺,Neutral
+M000858,C0163,okay 😅,Neutral
+M000859,C0163,what camera do you use,Neutral
+M000860,C0163,"same here, every single day 🥺",Relatable
+M000861,C0163,good editing 😭,Neutral
+M000862,C0163,how long did this take to make 😭,Neutral
+M000863,C0163,what camera do you use 🥺,Neutral
+M000864,C0163,cool 🥺,Neutral
+M000865,C0164,which app is this 😭,Neutral
+M000866,C0164,needed this today,Relatable
+M000867,C0164,thanks for sharing 🥺,Neutral
+M000868,C0164,how long did this take to make,Neutral
+M000869,C0165,great lighting 😅,Neutral
+M000870,C0165,interesting topic 😭,Neutral
+M000871,C0165,you just described me 😭,Relatable
+M000872,C0166,what camera do you use ❤️,Neutral
+M000873,C0166,omg this is so me 😅,Relatable
+M000874,C0166,why is this so true 💯. finally someone gets it,Relatable
+M000875,C0167,omg this is so me 💯,Relatable
+M000876,C0167,what camera do you use ❤️,Neutral
+M000877,C0167,interesting topic,Neutral
+M000878,C0167,finally someone gets it ❤️,Relatable
+M000879,C0167,"I feel this so hard 😅. I've been there, thank you for saying it",Relatable
+M000880,C0167,good editing 💯,Neutral
+M000881,C0168,"saving this for later, I needed to hear it",Relatable
+M000882,C0168,which app is this ❤️,Neutral
+M000883,C0168,felt this in my soul,Relatable
+M000884,C0168,interesting topic,Neutral
+M000885,C0169,cool ❤️,Neutral
+M000886,C0169,this is exactly how I feel. needed this today,Relatable
+M000887,C0169,how long did this take to make 😭,Neutral
+M000888,C0169,finally someone gets it 🥺,Relatable
+M000889,C0169,what song is this,Neutral
+M000890,C0170,felt this in my soul ❤️,Relatable
+M000891,C0170,which app is this ❤️,Neutral
+M000892,C0170,what camera do you use 😅,Neutral
+M000893,C0171,check out my page 😅,Neutral
+M000894,C0171,cool 💯,Neutral
+M000895,C0171,good editing 💯,Neutral
+M000896,C0172,great lighting,Neutral
+M000897,C0172,needed this today 🥺. I relate to this so much,Relatable
+M000898,C0172,first 🥺,Neutral
+M000899,C0172,you just described me 🥺,Relatable
+M000900,C0173,what song is this 🥺,Neutral
+M000901,C0173,thanks for sharing,Neutral
+M000902,C0173,what camera do you use 😅,Neutral
+M000903,C0173,can you make a video on productivity 💯,Neutral
+M000904,C0173,"needed this today 😅. I've been there, thank you for saying it",Relatable
+M000905,C0173,good editing,Neutral
+M000906,C0173,great lighting 💯,Neutral
+M000907,C0173,can you make a video on productivity 😭,Neutral
+M000908,C0173,what song is this ❤️,Neutral
+M000909,C0173,thanks for sharing 🙏,Neutral
+M000910,C0173,finally someone gets it 😅,Relatable
+M000911,C0174,interesting topic,Neutral
+M000912,C0174,"same here, every single day ❤️",Relatable
+M000913,C0174,I relate to this so much 🥺,Relatable
+M000914,C0174,hello from India,Neutral
+M000915,C0174,interesting topic ❤️,Neutral
+M000916,C0174,I feel this so hard 💯,Relatable
+M000917,C0174,"I thought it was just me 😭. saving this for later, I needed to hear it",Relatable
+M000918,C0174,which app is this 🙏,Neutral
+M000919,C0175,okay 💯,Neutral
+M000920,C0175,how long did this take to make 💯,Neutral
+M000921,C0175,which app is this 😅,Neutral
+M000922,C0175,this is literally my life 😅. sending this to my best friend,Relatable
+M000923,C0175,you just described me 🙏,Relatable
+M000924,C0175,needed this today,Relatable
+M000925,C0176,"same here, every single day 😅",Relatable
+M000926,C0176,I feel this so hard. needed this today,Relatable
+M000927,C0176,omg this is so me. this is exactly how I feel,Relatable
+M000928,C0176,check out my page 💯,Neutral
+M000929,C0176,"me too, I thought I was the only one 😅",Relatable
+M000930,C0176,cool,Neutral
+M000931,C0176,I relate to this so much 😅,Relatable
+M000932,C0176,hello from India 😅,Neutral
+M000933,C0176,needed this today 💯,Relatable
+M000934,C0176,I feel this so hard ❤️. why is this so true,Relatable
+M000935,C0176,interesting topic,Neutral
+M000936,C0176,"same here, every single day 💯",Relatable
+M000937,C0176,why is this so true ❤️. sending this to my best friend,Relatable
+M000938,C0176,what camera do you use 🙏,Neutral
+M000939,C0176,can you make a video on productivity 😭,Neutral
+M000940,C0177,first,Neutral
+M000941,C0177,"I've been there, thank you for saying it 🙏",Relatable
+M000942,C0177,nice video 😅,Neutral
+M000943,C0177,which app is this 💯,Neutral
+M000944,C0178,great lighting ❤️,Neutral
+M000945,C0178,felt this in my soul 🙏. I thought it was just me,Relatable
+M000946,C0178,cool 🥺,Neutral
+M000947,C0178,how long did this take to make ❤️,Neutral
+M000948,C0178,check out my page 🙏,Neutral
+M000949,C0178,okay 💯,Neutral
+M000950,C0178,can you make a video on productivity ❤️,Neutral
+M000951,C0178,hello from India 😭,Neutral
+M000952,C0178,what song is this ❤️,Neutral
+M000953,C0179,"me too, I thought I was the only one",Relatable
+M000954,C0179,"I've been there, thank you for saying it 🥺",Relatable
+M000955,C0179,"same here, every single day 🙏. felt this in my soul",Relatable
+M000956,C0180,thanks for sharing,Neutral
+M000957,C0180,needed this today,Relatable
+M000958,C0180,"same here, every single day. you just described me",Relatable
+M000959,C0180,the audio is a bit low,Neutral
+M000960,C0180,hello from India,Neutral
+M000961,C0181,how long did this take to make ❤️,Neutral
+M000962,C0181,felt this in my soul 💯. omg this is so me,Relatable
+M000963,C0181,okay 🙏,Neutral
+M000964,C0181,this is exactly how I feel ❤️. I feel this so hard,Relatable
+M000965,C0181,finally someone gets it,Relatable
+M000966,C0181,the audio is a bit low ❤️,Neutral
+M000967,C0182,great lighting,Neutral
+M000968,C0182,great lighting,Neutral
+M000969,C0182,first 🥺,Neutral
+M000970,C0182,check out my page 🙏,Neutral
+M000971,C0182,"finally someone gets it 🥺. me too, I thought I was the only one",Relatable
+M000972,C0182,can you make a video on productivity 💯,Neutral
+M000973,C0183,what camera do you use 😭,Neutral
+M000974,C0183,finally someone gets it 💯,Relatable
+M000975,C0183,thanks for sharing 🙏,Neutral
+M000976,C0183,great lighting 💯,Neutral
+M000977,C0183,interesting topic,Neutral
+M000978,C0184,hello from India 🥺,Neutral
+M000979,C0184,can you make a video on productivity,Neutral
+M000980,C0184,okay 🙏,Neutral
+M000981,C0184,which app is this 🙏,Neutral
+M000982,C0184,cool 💯,Neutral
+M000983,C0184,this is literally my life 💯,Relatable
+M000984,C0184,check out my page 💯,Neutral
+M000985,C0184,what camera do you use ❤️,Neutral
+M000986,C0184,okay 😭,Neutral
+M000987,C0184,what camera do you use 😅,Neutral
+M000988,C0184,hello from India,Neutral
+M000989,C0185,good editing,Neutral
+M000990,C0185,check out my page 🙏,Neutral
+M000991,C0185,nice video 😅,Neutral
+M000992,C0185,check out my page,Neutral
+M000993,C0185,great lighting 💯,Neutral
+M000994,C0185,felt this in my soul ❤️. I relate to this so much,Relatable
+M000995,C0185,okay 🙏,Neutral
+M000996,C0185,thanks for sharing,Neutral
+M000997,C0186,"same here, every single day 🥺",Relatable
+M000998,C0186,okay,Neutral
+M000999,C0186,"saving this for later, I needed to hear it",Relatable
+M001000,C0187,nice video ❤️,Neutral
+M001001,C0187,what song is this 🙏,Neutral
+M001002,C0187,can you make a video on productivity 💯,Neutral
+M001003,C0187,hello from India 🥺,Neutral
+M001004,C0187,hello from India,Neutral
+M001005,C0187,what camera do you use,Neutral
+M001006,C0188,which app is this,Neutral
+M001007,C0188,"same here, every single day",Relatable
+M001008,C0188,interesting topic 🥺,Neutral
+M001009,C0188,you just described me 🙏,Relatable
+M001010,C0189,"saving this for later, I needed to hear it 😭",Relatable
+M001011,C0189,okay 😭,Neutral
+M001012,C0189,first,Neutral
+M001013,C0189,why is this so true 😅,Relatable
+M001014,C0189,the audio is a bit low,Neutral
+M001015,C0190,sending this to my best friend. this is exactly how I feel,Relatable
+M001016,C0190,nice video 🙏,Neutral
+M001017,C0190,okay 🥺,Neutral
+M001018,C0191,finally someone gets it. why is this so true,Relatable
+M001019,C0191,can you make a video on productivity,Neutral
+M001020,C0191,how long did this take to make 🙏,Neutral
+M001021,C0191,what song is this ❤️,Neutral
+M001022,C0191,what song is this,Neutral
+M001023,C0191,good editing 💯,Neutral
+M001024,C0191,which app is this 😭,Neutral
+M001025,C0191,what song is this 😅,Neutral
+M001026,C0191,the audio is a bit low,Neutral
+M001027,C0191,"saving this for later, I needed to hear it",Relatable
+M001028,C0191,"why is this so true. same here, every single day",Relatable
+M001029,C0191,sending this to my best friend 😅,Relatable
+M001030,C0191,"me too, I thought I was the only one",Relatable
+M001031,C0191,the audio is a bit low ❤️,Neutral
+M001032,C0191,how long did this take to make ❤️,Neutral
+M001033,C0192,nice video,Neutral
+M001034,C0192,"me too, I thought I was the only one 😭. felt this in my soul",Relatable
+M001035,C0192,finally someone gets it 🥺,Relatable
+M001036,C0193,"omg this is so me. me too, I thought I was the only one",Relatable
+M001037,C0193,first,Neutral
+M001038,C0193,thanks for sharing,Neutral
+M001039,C0193,great lighting ❤️,Neutral
+M001040,C0193,why is this so true 😭,Relatable
+M001041,C0193,good editing,Neutral
+M001042,C0193,I feel this so hard. this is literally my life,Relatable
+M001043,C0193,cool ❤️,Neutral
+M001044,C0193,great lighting,Neutral
+M001045,C0193,I thought it was just me 💯,Relatable
+M001046,C0194,finally someone gets it,Relatable
+M001047,C0194,check out my page 💯,Neutral
+M001048,C0194,can you make a video on productivity 😭,Neutral
+M001049,C0195,okay,Neutral
+M001050,C0195,can you make a video on productivity ❤️,Neutral
+M001051,C0195,"saving this for later, I needed to hear it 💯",Relatable
+M001052,C0195,I thought it was just me,Relatable
+M001053,C0196,what camera do you use 🥺,Neutral
+M001054,C0196,which app is this 💯,Neutral
+M001055,C0196,cool 💯,Neutral
+M001056,C0196,the audio is a bit low 😅,Neutral
+M001057,C0197,thanks for sharing 😅,Neutral
+M001058,C0197,this is exactly how I feel 😅,Relatable
+M001059,C0197,you just described me 🙏,Relatable
+M001060,C0197,"I've been there, thank you for saying it",Relatable
+M001061,C0197,cool,Neutral
+M001062,C0197,what song is this,Neutral
+M001063,C0197,okay 💯,Neutral
+M001064,C0197,the audio is a bit low 😅,Neutral
+M001065,C0197,interesting topic 🙏,Neutral
+M001066,C0197,"same here, every single day. I thought it was just me",Relatable
+M001067,C0197,okay 😅,Neutral
+M001068,C0197,what song is this,Neutral
+M001069,C0197,nice video,Neutral
+M001070,C0198,the audio is a bit low 🙏,Neutral
+M001071,C0198,what camera do you use 😭,Neutral
+M001072,C0198,great lighting 🙏,Neutral
+M001073,C0199,can you make a video on productivity 😅,Neutral
+M001074,C0199,can you make a video on productivity 🥺,Neutral
+M001075,C0199,nice video,Neutral
+M001076,C0199,great lighting 🥺,Neutral
+M001077,C0199,good editing 💯,Neutral
+M001078,C0199,"saving this for later, I needed to hear it 😭. I feel this so hard",Relatable
+M001079,C0199,interesting topic 🙏,Neutral
+M001080,C0199,what camera do you use 😭,Neutral
+M001081,C0199,interesting topic 😅,Neutral
+M001082,C0199,how long did this take to make,Neutral
+M001083,C0199,interesting topic 😅,Neutral
+M001084,C0199,what song is this ❤️,Neutral
+M001085,C0200,first,Neutral
+M001086,C0200,what song is this,Neutral
+M001087,C0200,what song is this ❤️,Neutral
+M001088,C0200,finally someone gets it,Relatable
+M001089,C0200,what camera do you use ❤️,Neutral
+M001090,C0200,I relate to this so much 🙏,Relatable
+M001091,C0200,which app is this ❤️,Neutral
+M001092,C0200,interesting topic 🙏,Neutral
+M001093,C0200,can you make a video on productivity 😭,Neutral
+M001094,C0200,interesting topic 💯,Neutral
+M001095,C0200,nice video,Neutral
+M001096,C0200,"I've been there, thank you for saying it 🙏",Relatable
+M001097,C0201,first 😭,Neutral
+M001098,C0201,nice video 💯,Neutral
+M001099,C0201,this is exactly how I feel,Relatable
+M001100,C0201,this is exactly how I feel ❤️,Relatable
+M001101,C0201,interesting topic,Neutral
+M001102,C0201,what camera do you use,Neutral
+M001103,C0202,first,Neutral
+M001104,C0202,thanks for sharing 💯,Neutral
+M001105,C0202,this is literally my life,Relatable
+M001106,C0202,needed this today,Relatable
+M001107,C0202,first ❤️,Neutral
+M001108,C0202,cool 🙏,Neutral
+M001109,C0202,good editing 😭,Neutral
+M001110,C0202,interesting topic,Neutral
+M001111,C0202,can you make a video on productivity 😅,Neutral
+M001112,C0202,felt this in my soul 😅. this is exactly how I feel,Relatable
+M001113,C0202,finally someone gets it,Relatable
+M001114,C0202,okay,Neutral
+M001115,C0202,what camera do you use 🥺,Neutral
+M001116,C0202,cool,Neutral
+M001117,C0202,hello from India ❤️,Neutral
+M001118,C0202,first,Neutral
+M001119,C0202,I relate to this so much. you just described me,Relatable
+M001120,C0202,the audio is a bit low 😭,Neutral
+M001121,C0203,hello from India 💯,Neutral
+M001122,C0203,sending this to my best friend 🙏,Relatable
+M001123,C0203,interesting topic 💯,Neutral
+M001124,C0203,what camera do you use ❤️,Neutral
+M001125,C0203,nice video 😭,Neutral
+M001126,C0203,can you make a video on productivity 😭,Neutral
+M001127,C0203,interesting topic,Neutral
+M001128,C0203,how long did this take to make,Neutral
+M001129,C0203,hello from India,Neutral
+M001130,C0203,finally someone gets it 💯,Relatable
+M001131,C0203,interesting topic 🙏,Neutral
+M001132,C0203,first 💯,Neutral
+M001133,C0203,what song is this 🥺,Neutral
+M001134,C0203,good editing,Neutral
+M001135,C0204,okay 😅,Neutral
+M001136,C0204,you just described me 🙏,Relatable
+M001137,C0204,omg this is so me ❤️. I feel this so hard,Relatable
+M001138,C0204,good editing ❤️,Neutral
+M001139,C0204,"me too, I thought I was the only one 😅. I thought it was just me",Relatable
+M001140,C0204,what camera do you use 💯,Neutral
+M001141,C0204,"sending this to my best friend 🥺. same here, every single day",Relatable
+M001142,C0204,why is this so true ❤️. you just described me,Relatable
+M001143,C0204,nice video,Neutral
+M001144,C0205,good editing 🥺,Neutral
+M001145,C0205,which app is this 🙏,Neutral
+M001146,C0205,"me too, I thought I was the only one",Relatable
+M001147,C0205,nice video 💯,Neutral
+M001148,C0205,hello from India 💯,Neutral
+M001149,C0206,why is this so true 😭,Relatable
+M001150,C0206,thanks for sharing ❤️,Neutral
+M001151,C0206,"saving this for later, I needed to hear it",Relatable
+M001152,C0206,sending this to my best friend 🙏,Relatable
+M001153,C0206,felt this in my soul. why is this so true,Relatable
+M001154,C0206,felt this in my soul 🥺,Relatable
+M001155,C0206,which app is this,Neutral
+M001156,C0207,what camera do you use 💯,Neutral
+M001157,C0207,hello from India 🥺,Neutral
+M001158,C0207,good editing,Neutral
+M001159,C0207,how long did this take to make 😭,Neutral
+M001160,C0207,good editing ❤️,Neutral
+M001161,C0207,what camera do you use 😭,Neutral
+M001162,C0207,what camera do you use ❤️,Neutral
+M001163,C0207,how long did this take to make,Neutral
+M001164,C0207,great lighting,Neutral
+M001165,C0207,interesting topic 🙏,Neutral
+M001166,C0207,interesting topic,Neutral
+M001167,C0207,the audio is a bit low 😅,Neutral
+M001168,C0207,can you make a video on productivity 💯,Neutral
+M001169,C0207,okay 😭,Neutral
+M001170,C0207,cool 🥺,Neutral
+M001171,C0207,interesting topic 🥺,Neutral
+M001172,C0207,"same here, every single day",Relatable
+M001173,C0207,the audio is a bit low 😭,Neutral
+M001174,C0208,check out my page ❤️,Neutral
+M001175,C0208,interesting topic 😅,Neutral
+M001176,C0208,check out my page,Neutral
+M001177,C0209,how long did this take to make 🙏,Neutral
+M001178,C0209,good editing ❤️,Neutral
+M001179,C0209,what camera do you use,Neutral
+M001180,C0209,thanks for sharing ❤️,Neutral
+M001181,C0210,can you make a video on productivity,Neutral
+M001182,C0210,what camera do you use,Neutral
+M001183,C0210,"same here, every single day",Relatable
+M001184,C0210,I feel this so hard ❤️. why is this so true,Relatable
+M001185,C0211,"this is exactly how I feel 💯. saving this for later, I needed to hear it",Relatable
+M001186,C0211,nice video 😭,Neutral
+M001187,C0211,"saving this for later, I needed to hear it",Relatable
+M001188,C0211,what camera do you use,Neutral
+M001189,C0211,cool 🥺,Neutral
+M001190,C0211,I thought it was just me ❤️,Relatable
+M001191,C0212,can you make a video on productivity 🥺,Neutral
+M001192,C0212,the audio is a bit low,Neutral
+M001193,C0212,interesting topic 🙏,Neutral
+M001194,C0212,check out my page ❤️,Neutral
+M001195,C0212,hello from India ❤️,Neutral
+M001196,C0212,nice video,Neutral
+M001197,C0212,which app is this,Neutral
+M001198,C0212,great lighting 🥺,Neutral
+M001199,C0212,how long did this take to make 😭,Neutral
+M001200,C0212,good editing 🥺,Neutral
+M001201,C0212,thanks for sharing 😭,Neutral
+M001202,C0212,felt this in my soul 🥺,Relatable
+M001203,C0213,check out my page ❤️,Neutral
+M001204,C0213,nice video 💯,Neutral
+M001205,C0213,interesting topic 😭,Neutral
+M001206,C0213,why is this so true,Relatable
+M001207,C0213,how long did this take to make 🙏,Neutral
+M001208,C0213,good editing,Neutral
+M001209,C0213,interesting topic,Neutral
+M001210,C0213,this is exactly how I feel 💯,Relatable
+M001211,C0214,check out my page,Neutral
+M001212,C0214,nice video,Neutral
+M001213,C0214,finally someone gets it 🙏. finally someone gets it,Relatable
+M001214,C0214,"finally someone gets it 😅. me too, I thought I was the only one",Relatable
+M001215,C0214,I thought it was just me,Relatable
+M001216,C0214,check out my page ❤️,Neutral
+M001217,C0214,hello from India,Neutral
+M001218,C0214,check out my page 😅,Neutral
+M001219,C0214,this is exactly how I feel 🙏. finally someone gets it,Relatable
+M001220,C0215,what camera do you use 🥺,Neutral
+M001221,C0215,first 😭,Neutral
+M001222,C0215,you just described me,Relatable
+M001223,C0215,what camera do you use,Neutral
+M001224,C0215,what song is this 😭,Neutral
+M001225,C0215,this is literally my life 🥺. omg this is so me,Relatable
+M001226,C0215,first 🙏,Neutral
+M001227,C0216,interesting topic 😭,Neutral
+M001228,C0216,which app is this 🙏,Neutral
+M001229,C0216,check out my page 😅,Neutral
+M001230,C0216,can you make a video on productivity,Neutral
+M001231,C0216,okay ❤️,Neutral
+M001232,C0216,what camera do you use,Neutral
+M001233,C0216,"I've been there, thank you for saying it 💯",Relatable
+M001234,C0216,"saving this for later, I needed to hear it 😅",Relatable
+M001235,C0216,"this is exactly how I feel 😅. me too, I thought I was the only one",Relatable
+M001236,C0216,good editing 🙏,Neutral
+M001237,C0216,good editing,Neutral
+M001238,C0217,okay 💯,Neutral
+M001239,C0217,nice video,Neutral
+M001240,C0217,this is exactly how I feel 🙏,Relatable
+M001241,C0217,"same here, every single day 💯. saving this for later, I needed to hear it",Relatable
+M001242,C0217,good editing ❤️,Neutral
+M001243,C0218,okay 💯,Neutral
+M001244,C0218,thanks for sharing 😅,Neutral
+M001245,C0218,nice video 🥺,Neutral
+M001246,C0218,hello from India,Neutral
+M001247,C0219,the audio is a bit low ❤️,Neutral
+M001248,C0219,"me too, I thought I was the only one 🥺",Relatable
+M001249,C0219,"saving this for later, I needed to hear it 🙏",Relatable
+M001250,C0219,"me too, I thought I was the only one",Relatable
+M001251,C0219,good editing 😅,Neutral
+M001252,C0219,thanks for sharing 🙏,Neutral
+M001253,C0219,can you make a video on productivity,Neutral
+M001254,C0219,this is literally my life ❤️,Relatable
+M001255,C0219,thanks for sharing 😅,Neutral
+M001256,C0220,what camera do you use 🙏,Neutral
+M001257,C0220,check out my page,Neutral
+M001258,C0220,thanks for sharing,Neutral
+M001259,C0220,what song is this 💯,Neutral
+M001260,C0220,hello from India 😭,Neutral
+M001261,C0220,why is this so true,Relatable
+M001262,C0220,what camera do you use,Neutral
+M001263,C0220,you just described me 😅,Relatable
+M001264,C0220,great lighting,Neutral
+M001265,C0220,good editing,Neutral
+M001266,C0220,what camera do you use 😭,Neutral
+M001267,C0220,needed this today 😅,Relatable
+M001268,C0220,good editing 😭,Neutral
